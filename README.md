@@ -12,7 +12,7 @@ The app uses the OpenWeatherMap API to fetch weather data. To obtain an API key,
 
 ## How It Works
 1. Enter a city name in the search field.
-2. Click the "Get Weather" button.
+2. Click the search button or Enter.
 3. The current weather and the forecast for the next 4 days will be displayed with relevant details (temperature, humidity, wind speed, and weather conditions).
 4. The app will automatically show the current date and the corresponding dates for the forecast.
 
