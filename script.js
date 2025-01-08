@@ -126,7 +126,7 @@ function updateForecastsItems(weatherData) {
     const forecastItem = `
         <div class="forecast-item">
             <h5 class="forecast-item-date regular-txt">${forecastDate}</h5>
-            <img src="image/weather/${getWeatherIcon(id)}" class="forecast-item-img">
+            <img src="image/${getWeatherIcon(id)}" class="forecast-item-img">
             <h5 class="forecast-item-temp">${Math.round(temp)} °C</h5>
         </div>
     `;
