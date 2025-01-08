@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App ((HTML/CSS/JavaScript)
 
 Weather App is a simple and interactive application that displays the current weather as well as the forecast for the next 4 days. The app provides real-time weather data, including temperature, humidity, wind speed, and the relevant dates for each forecast.
 
